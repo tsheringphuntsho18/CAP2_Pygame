@@ -1,0 +1,40 @@
+Thimphu : Bhutan
+Beijing : China
+NewDelhi : India
+Rome : Italy
+Tokyo : Japan
+Pyongyang : North Korea
+Oslo : Norway
+Islamabad : Pakistan
+Kabul : Afghanistan
+Canberra : Australia
+Buenosaires : Argentina
+Dhaka : Bangladesh
+Brussels : Belgium
+Brasilia : Brazil
+Ottawa : Canada
+Copenhagen : Denmark
+Cairo : Egypt
+Quit0 : Ecuador
+London : England
+Paris : France
+Berlin : Germany
+Jakarta : Indonesia
+Tehran : Iran
+Kingston : Jamaica
+Male : Maldives
+Rabat : Morocco
+Kathmandu : Nepal
+Manila : Philippines
+Warsaw : Poland
+Lisbon : Portugal
+Doha : Qatar
+Moscow : Russia
+Riyadh : Saudi Arabia
+Dakar : Senegal
+Seoul : South Korea
+Madrid : Spain
+Bangkok : Thailand
+Washington : United States
+Hanoi : Vietnam
+Lusaka : Zambia
