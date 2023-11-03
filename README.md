@@ -1,6 +1,6 @@
 # Hangman Game with Pygame
 
-![Hangman](hangman_screenshot.png)
+![Hangman](Hangman/game.png)
 
 This is a simple Hangman game implemented in Python using the Pygame library. Test your GK by playing Hangman .
 
