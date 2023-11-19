@@ -1,5 +1,5 @@
 # https://realpython.com/pytest-python-testing/
-# test case
+# test case with pytest
 import unittest
 from game import getWord, word_dict, Button
 from unittest.mock import Mock
